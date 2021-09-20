@@ -1,4 +1,4 @@
-module github.com/splitsh/lite
+module github.com/martinssipenko/lite
 
 go 1.17
 
