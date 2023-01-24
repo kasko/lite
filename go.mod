@@ -1,4 +1,4 @@
-module github.com/martinssipenko/lite
+module github.com/kasko/lite
 
 go 1.17
 
