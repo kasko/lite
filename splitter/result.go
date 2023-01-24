@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	git "github.com/libgit2/git2go/v33"
+	git "github.com/libgit2/git2go/v34"
 )
 
 // Result represents the outcome of a split
